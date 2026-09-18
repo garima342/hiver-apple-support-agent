@@ -1,0 +1,15 @@
+                     precision    recall  f1-score   support
+
+     account_access       1.00      0.25      0.40         4
+          app_issue       0.67      0.67      0.67         3
+      battery_issue       0.91      1.00      0.95        10
+       connectivity       0.80      1.00      0.89         4
+    device_hardware       1.00      0.33      0.50         3
+     feature_how_to       0.00      0.00      0.00         0
+   purchase_billing       1.00      0.50      0.67         2
+    software_update       0.85      0.90      0.88        31
+storage_performance       0.00      0.00      0.00         0
+
+           accuracy                           0.82        57
+          macro avg       0.69      0.52      0.55        57
+       weighted avg       0.87      0.82      0.82        57

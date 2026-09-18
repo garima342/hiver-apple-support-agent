@@ -1,0 +1,58 @@
+conversation_id,clean_message,golden_intent,notes,intent,prediction
+50dff963693f4ae8c21695ee386c8e74,"Hi, I’d like to buy an app with my balance but keep getting asked for valid payment method. PayPal is no longer available.",,,app_issue,app_issue
+4d9fe3817061b39b2c29e2660a7f601a,@AppleSupport excessive heating and battery drain out if iphone 7 plus immidiately after ioS11. Look fwd to samasung galaxy S8,,,battery_issue,battery_issue
+c79e008adc43f4d91b6990d45988b0ec,fix the fucking wifi issue with iOS 11 on the 7+. Thanks,,,software_update,software_update
+536680b9713786fe7b0ecb9772aa7adf,Hey @115858 11.0.2 drains the battery on iPhone 7 really fast. Should’ve ignored the update like usual. #thisstinks,,,battery_issue,battery_issue
+423509ea9a66cfa084d51d5a0c097eb5,Hey @AppleSupport can you please fix the bug for your new update... I’m not getting any text notifications ☹️ https://t.co/qXs3TnR3F6,,,software_update,software_update
+b822f183f624373beadd94db10590098,"Hey @115858, the next iOS must include @536466 or Reece’s PB Cup emojis.",,,software_update,software_update
+ad9b30642a0330acc29cc9259351d91e,"Rah the new update has deleted all my contacts, are ya mad @115858",,,software_update,software_update
+d71f150ac9f494e0fbace0eb7871ee16,"update for ios 11 comes out right after the new iphone is released, and now my phone is spazzing. y’all ain’t slick. @115858",,,software_update,software_update
+eda83e8c97a5fe9a4fab8dfe766c596e,have updated to 11.0.2 this is when the problems started apps work once open but screen freezes all the time no sound and phone awful!,,,software_update,software_update
+9dcaed173944e36bdb173ace9e65c904,since update battery is dying quick. Need help,,,battery_issue,battery_issue
+597c96681e99ddcbc6b7ce9ea6a11494,any reason why my phone has yet to receive the new iOS 11 update?,,,software_update,software_update
+33fa001f67e0f6dad4dbdcdcf1dae970,please find a solution to iOS 11 problems. This is the worst update that has slowed down the phone and several apps lag.,,,software_update,software_update
+a95ce15e5aafbb9cbb46ff4a3c8c5d91,this stupid ios 11 update has ruined my phone @115858,,,software_update,software_update
+9b23abc13fcd19986e720e494e255a99,i am furious my little boys phone broke had the screen fixed but it's had to be reset called up told can't do it,,,device_hardware,device_hardware
+f58cdc95e278d137e98e02bc2bec4429,@AppleSupport Your update has messed up my phone. Apps won’t load. 😔Losing my love for you!,,,software_update,software_update
+a33b6271694c7db8d288a8a10b1caea5,Care to fix the annoying iOS 11 bugs that are constantly cropping up. There’s not a single day one new would not show!!! 😡,,,software_update,software_update
+6ce8cbe4e8ccd74d2c984f1cd3221a76,why won’t my iPhone 8+ check for update? https://t.co/rH3AbPhUG7,,,software_update,software_update
+233a07c47a8451f7bd1af3f12554e41e,@120026 @244902 #Ios11 why does my WiFi keep Turing Back On after I’ve turn it completely off!? Come on Apple,,,connectivity,connectivity
+6a643cfea86bb7832ad13569e97c895d,you pay enough money for an iPhone to have an update completely screw the phone up? It needs to get fixed and no I won’t buy the X,,,software_update,software_update
+16eeaeda941a2925e34dc95a216b6538,what the hell has the latest IOS 11.0.2 done to my phone? It has frozen 6 times today! Nothing but reboot fixes it #iOS11,,,software_update,software_update
+8ee2f8ef2d93a8a6a6016bcc1f42d2e1,"Hi @115858 , what’s with all these software updates, does it have a lot to do with my now poor battery performance and slow phone? 📱🆘",,,battery_issue,battery_issue
+c44cffd9ced1b208a68f05ca64575a3f,stop automatically turning my damn WiFi &amp; bluetooth on @12576 @115858,,,connectivity,connectivity
+fc60d009cf49874f88fe48a420916e9f,this update on maps is gonna end up being the cause of my death from getting in a wreck cuz it lags and sucks,,,software_update,software_update
+7e133b5ec7ad3911f79f03ebf0672200,What the bloody hell did ya’ll do with my damn iphone battery?!? It’s hard charging thrice a day 😞😞😞😞 @115858,,,battery_issue,battery_issue
+a41a526d711d8d391b285f7247c1f246,"iTunes/Apple music issues today on both Win&amp;Mac. Playing a song, then choose “go to current song” shows blank screen",,,device_hardware,software_update
+3173860f5bdf12bb35da9ee44659955c,Subscribed to Apple Music yesterday. Downloaded songs but they don’t play offline in a car but do with no WiFi at home.,,,connectivity,connectivity
+32f88a63d05cea4be984923b417848ce,I'm using 11.0.2 and trying to AirDrop photo and video taken from said iPhone 6S+ onto a MacBook Pro and another iPhone 6 (iOS 11.1 [Beta]),,,software_update,software_update
+0ed35ca82b95ecf5043e41e723d7b308,Hi! One question: Apple Watch Series 3 doesn't work with iOS 10.3.3? I have an iPhone 5 and it works really good! ;),,,software_update,software_update
+580b61d8b18f019d8595451447f6e072,"Hey @115858 you seriously need to do some major fix in your newly released iOS, it sucks BT! Our phones battery drains too fast 😒",,,battery_issue,battery_issue
+066b157f349ca365735a29335b3fef71,iOS 11.0.2,,,software_update,software_update
+7501fda9f175f842404e889e7345e46a,notification and reminder alerts aren't appearing on my phone. Tried resetting. Didn't work. iPhone 6S running iOS 10.3.3,,,software_update,software_update
+1d18f125b24f62bff9e6992acf111fde,thanks for fucking up my iCloud and making me loose just about everything from my phone 👍🏻,,,account_access,software_update
+da0e0009832766a9a9668e225bfdec7c,"My music sometimes doesn’t appear on my home screen or control center when it’s playing, the keyboard is very slow, the notifications are always glitching, my phone is just overall really slow, please fix it",,,device_hardware,software_update
+2765e312efc609d74cd37e8af087f6d5,"wow, after update awhile ago. How does my 7plus lose 7% batter just sitting next to me? This update drains battery!",,,battery_issue,battery_issue
+7eca82bef1a92ca904094a3b612a05c8,Hey @115858 ever since updating the iPhone iOS my 6s keeps freezing on apps/needing to be restarted. Any fix or is the “fix” to buy a new one,,,software_update,software_update
+efc55f7af68174733c04192b81a575eb,"Hi, my apple id has been ""locked for security reasons"" but i dont have access to the recovery email anymore. Please advise?",,,account_access,software_update
+0ed35ca82b95ecf5043e41e723d7b308,ohhh but my iphone doesn't work with iOS 11... I'll have to wait to a new iPhone! ;) Thanxxx,,,software_update,software_update
+8cb2b664c8b891372066648218d9f2ef,"Why does my iPhone send a hidden SMS to +447786205094 on iMessage activation?You should stop it, i’ve been charged many times😡",,,purchase_billing,battery_issue
+95c8dd3ba75b7e759b753815f1774646,need some help w/ apple business... not sure how to get assistance. vpp is stuck in verification status. need help urgently,,,software_update,feature_how_to
+fae3722d0f01dda90d45c9d5b8e22e6a,"How TO GET BACK OLD IPHONE POWER? Phone is laggy, low battery life, wifi connection is bad....",,,battery_issue,battery_issue
+77265e429edc6a7b8633b384e903d270,Yo @AppleSupport can y’all call me or something because my iPhone just deleted my Apple ID and won’t let me sign in now.,,,account_access,account_access
+ea1a32632ceb296b5ccc86229ef1eba0,"I’m getting password reset emails from an unknown source a couple times a week, do you really recommend resetting every time?",,,account_access,app_issue
+dc28248bfa7498e52cfe4fc1c3aa608e,this new update is horrible. I can’t even change my music when I’m on my lock screen... Makes for walking and running annoying...,,,software_update,software_update
+c19e786d965538b685f2b7f6bd2d47b7,"battery is draining pretty fast with iOS 11, fix it please",,,battery_issue,battery_issue
+df2067793f4c14f9837da138211e259e,"any way to downgrade to IOS 10 again?! my iPhone 7 is hanging , no sound, bluetooth failure, .. please help me @AppleSupport",,,software_update,software_update
+ccd548b71182e9b42fddf160c7f9c23f,All my apps are currently up to date,,,app_issue,app_issue
+226c359b8e5cfbe0c866fdd2077d6eae,"If you value a stable MacBook, don't upgrade to macOs High Sierra. It crashes on every sleep. _every sleep_ @AppleSupport",,,software_update,storage_performance
+bd2f23d78251caa5f14f873f06a6eccc,"@115858 @116333 @19731 I updated my phone on ios 11.0.2 &amp; my phone is getting hang &amp; frozen, working very slow",,,software_update,software_update
+d3b6ea6125e2e34c6cf75ab388ca5a13,What’s the plan for increased battery life? I literally went from 78% to 39% in an hour. #iphone #apple 📱🔋,,,battery_issue,battery_issue
+06f7a60403dc5a9b6942380eb2583b05,The newest IOS,,,software_update,software_update
+c9956f6a33ca8447220e8dcb9b97d5cd,why is my phone constantly freezing? help??,,,app_issue,software_update
+04883678dc17c298c0b2db52f059af41,ur last update has issue with wifi mode it’s turn on automatically even if u switch it off especially when u press the main button,,,software_update,connectivity
+3b90e8e19d01f732b858d85fd31176bd,"IOS 11.0.2 apesta, actualice y tengo falla de apagado, reinicio, batería y sobrecalentamiento.",,,software_update,software_update
+ef4d342aba85c8fbbdddf488ec8ba775,Both of the network’s[Wifi and cellular] have a speed of 4-5 mbs,,,connectivity,connectivity
+5cec0d9641ba43abeb37eb80bd07c486,iPhone 7 and the one before the new update.,,,software_update,software_update
+435bf5e5bd3b0472d3355f0d02b28e01,@2310 @115858 the new iOS 11 update is shitty. The phone has become slow and crashes all the apps. #dosomethingaboutit,,,software_update,software_update
+ecc6e82c039f81a86cb736595112044f,bought 12.9 inch iPad Pro. For some reason Japanese language input with “flick” is disabled. How can I enable it?,,,purchase_billing,purchase_billing
