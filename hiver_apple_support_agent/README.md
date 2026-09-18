@@ -1,4 +1,4 @@
-# Apple Support AI Agent — Hiver SDE Intern Take-home
+# Apple Support AI Agent 
 
 ## Pipeline
 Intent classification → historical retrieval → grounded reply drafting → escalation.
