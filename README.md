@@ -147,6 +147,15 @@ The golden set is kept separate for this reason.
 ## Running the project
 
 ### 1. Install dependencies
-
 ```bash
 pip install -r requirements.txt
+
+2. Add the conversation data
+Place the AppleSupport conversation file here:
+data/applesupport_conversations.csv
+
+3. Run the basic pipeline
+python run.py
+
+4. Run evaluation
+python evaluate.py
